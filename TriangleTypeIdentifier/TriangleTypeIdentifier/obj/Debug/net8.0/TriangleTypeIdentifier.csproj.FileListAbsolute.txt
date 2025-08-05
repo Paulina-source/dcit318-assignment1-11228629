@@ -1,0 +1,15 @@
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.exe
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.deps.json
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.runtimeconfig.json
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.dll
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.pdb
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.AssemblyInfo.cs
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.sourcelink.json
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.dll
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\refint\TriangleTypeIdentifier.dll
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.pdb
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.genruntimeconfig.cache
+C:\Users\GRCS DEP. SG\Desktop\dcit318-assignment1-11228629\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\net8.0\ref\TriangleTypeIdentifier.dll
